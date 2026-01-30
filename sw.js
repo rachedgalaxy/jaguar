@@ -4,7 +4,9 @@ const ASSETS = [
     '/index.html',
     '/index.css',
     '/index.tsx',
-    'https://i.ibb.co/60Md0hTy/jg.png',
+    '/index.tsx',
+    'https://i.ibb.co/KphRqqMV/jgc.png',
+    'https://cdn.tailwindcss.com',
     'https://cdn.tailwindcss.com',
     'https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;900&display=swap'
 ];
